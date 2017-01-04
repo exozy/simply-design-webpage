@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> This is my first web page </title>
+</head>
+<body>
+  <h1> Are you ready, bruth? </h1>
+  <p> I relly like to learn a new thing and I'm so interest to learn programming, and I want make something new in my live, for my
+    live and to other people. This is my first webpage, so simple. but, I promise to make a better webpage. </p>
+  <h3> I Want to make a List </h3>
+  <ul>
+    <li> This is the first row. </li>
+    <li> Second. </li>
+    <li> Thrid. </li>
+  </ul>
+  <h3> And Then I want to make a table with 3 columns and 5 rows </h3>
+  <table>
+    <thead>
+      <tr>
+        <th> Number </th>
+        <th> Name </th>
+        <th> Age </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> 1 </td>
+        <td> Dimas </td>
+        <td> 16 </td>
+      </tr>
+      <tr>
+        <td> 2 </td>
+        <td> Hadyan </td>
+        <td> 18 </td>
+      </tr>
+      <tr>
+        <td> 3 </td>
+        <td> Kiko </td>
+        <td> 16 </td>
+      </tr>
+      <tr>
+        <td> 4 </td>
+        <td> Dafry </td>
+        <td> 16 </td>
+      </tr>
+      <tr>
+        <td> 5 </td>
+        <td> Gigin </td>
+        <td> 17 </td>
+      </tr>
+    </tbody>
+  </table>  
+  <h2> I think, first web page has done </h2>
+</body>
+</html> 
